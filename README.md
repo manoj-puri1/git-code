@@ -10,10 +10,16 @@ git congif --list  // to see email and username.
 
 All basic commands used in vs.terminal
 clone = cloning a repo on our laptop.
-        git clone ...link...
+        git clone ...link... (code. = to go to repo in vscode)
 status = display the status of the code.
         git status
 add = add new or changed file.
         git add (file name) or git add . 
 commit = record of messege
        git commit -m "messege of change"  
+Push = to upload laptop code to github repo
+        git push origin main
+init = use to creat new repo
+        git init = to add repo of laptop to github
+
+
