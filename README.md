@@ -22,4 +22,10 @@ Push = to upload laptop code to github repo
 init = use to creat new repo
         git init = to add repo of laptop to github
 
+  git status
+git add .
+git commit -m "Add Hello World Java program"
+git push origin main
+
+
 
